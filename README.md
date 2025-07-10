@@ -1,4 +1,4 @@
-# ✈️ Airline Customer Review Sentiment Analysis
+# ✈️ US Airways Customer Tweets Sentiment Analysis
 
 ## 📌 Problem Statement
 
